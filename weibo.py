@@ -19,7 +19,7 @@ headers = {
 }
 #需要自己登陆账号获取cookie,对应填入即可
 cookies={'Cookie':'_T_WM= ;'
-                  'M_WEIBOCN_PARAMS=、;'
+                  'M_WEIBOCN_PARAMS= ;'
                   'MLOGIN=1;'
                   'SCF= ;'
                   'SSOLoginState= ;'
